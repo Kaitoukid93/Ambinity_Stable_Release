@@ -5,3 +5,5 @@ This Repo just for holding Stable App Release
  - Add auto Update when start
 ### 16/10/20022 : 4.0.5 Stable Release 
  - Fix DimLED Function
+### 17/10/20022 : 4.0.6 Stable Release 
+ - Add Updating View
